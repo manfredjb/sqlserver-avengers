@@ -1,4 +1,4 @@
-```sql
+```tsql
 
 drop procedure notificarPorCorreo;
 
