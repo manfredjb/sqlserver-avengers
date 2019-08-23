@@ -35,6 +35,8 @@ begin
 
 	CLOSE @cavengers ;
     DEALLOCATE @cavengers;
+    
+    update dbo.avengers set welcome = 0 where welcome = 1;
 
 end;
 ```
