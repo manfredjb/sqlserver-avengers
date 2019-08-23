@@ -1,4 +1,4 @@
-```
+```tsql
 
 drop procedure dbo.importarRegistros;
 CREATE PROC importarRegistros
