@@ -1,4 +1,4 @@
-```sql
+```tsql
 drop procedure asignaMisiones;
 
 CREATE PROC asignaMisiones
